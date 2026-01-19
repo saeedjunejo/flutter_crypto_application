@@ -1,4 +1,4 @@
-**Cryptocurrency Exchange App
+**Cryptocurrency Exchange Application 
 
 Flutter | Android & iOS**
 
@@ -22,4 +22,17 @@ A cross-platform cryptocurrency exchange mobile application built with Flutter, 
 - Cloud Firestore
 - Firebase Cloud Messaging
 - REST API Integration
+
+**Author**
+
+**Saeed Ahmed
+Flutter Developer | Android & iOS
+📍 Germany
+🔗 LinkedIn: https://www.linkedin.com/in/saeed-ahmed-5182b6222/
+**
+
+**UI Design of Cryptocurrency Exchange Application** 
+  
+
+![Ayenaas-crypto-exchange-waller-1536x1158-ZJ0k11768161043](https://github.com/user-attachments/assets/f542e94d-4c95-4d31-9e62-7404a10227cb)
 
