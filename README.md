@@ -1,16 +1,25 @@
-# air_pay
+**Cryptocurrency Exchange App
 
-A new Flutter project.
+Flutter | Android & iOS**
 
-## Getting Started
+A cross-platform cryptocurrency exchange mobile application built with Flutter, providing real-time cryptocurrency data, currency exchange functionality, and secure user authentication using Firebase.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+**Key Features**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Real-time cryptocurrency prices and market data.
+- Currency exchange between supported cryptocurrencies.
+- Firebase Authentication (secure login & user management).
+- Cloud Firestore for storing user data and transactions.
+- Push notifications using Firebase Cloud Messaging (FCM).
+- 3-month free trial, followed by a premium subscription model.
+- Modern, responsive UI for Android and iOS.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Tech Stack**
+
+- Flutter (Dart).
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging
+- REST API Integration
+
